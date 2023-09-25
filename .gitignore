@@ -1,0 +1,12 @@
+*.avi
+*.mp4
+*.mp3
+*.jpg
+*.png
+install/
+build/
+log/
+.*
+!.gitignore
+Camera/log/
+save_image/
